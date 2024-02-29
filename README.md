@@ -22,7 +22,7 @@ samples, guidance on mobile development, and a full API reference.
   <img width="250" alt="Home" src="img/imagen1.jpg">
 </p>
 
-**Segunda Página**
+
 
 <p align="center">
   <img width="250" alt="Segunda pagina" src="img/imagen2.jpg">
