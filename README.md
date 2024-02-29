@@ -46,7 +46,3 @@ Esta es una aplicación que incluye un sistema de registro con validaciones. Cua
 
 (Aquí puedes incluir algunas capturas de pantalla de tu aplicación para mostrar cómo se ve la interfaz de usuario, el formulario de registro, la notificación de éxito y el cambio de color en el botón de la aplicación.)
 
-## Cómo Empezar
-
-Proporciona instrucciones sobre cómo alguien interesado puede configurar tu proyecto localmente. Por ejemplo:
-
